@@ -16,10 +16,11 @@ A simple desktop calculator built with WPF .NET 6.
 - WPF
 - .NET 6
 
-## Download Release
-Download the latest Windows release package here:
+## Download
+Download the Windows installer for the latest release:
 
-- [Download .zip package](https://github.com/ahmedfawzy35/CalculatorWPF/raw/main/CalculatorWPF-Release.zip)
+- [Download installer (.exe)](https://github.com/ahmedfawzy35/CalculatorWPF/raw/main/installer/CalculatorWPF-Setup.exe)
+- [Download portable .zip](https://github.com/ahmedfawzy35/CalculatorWPF/raw/main/CalculatorWPF-Release.zip)
 - [Open repository](https://github.com/ahmedfawzy35/CalculatorWPF)
 
 ## Run
