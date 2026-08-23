@@ -13,5 +13,4 @@ obj/
 Publish/
 *.db
 *.sqlite
-*.zip
 *.7z
