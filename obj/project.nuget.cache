@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8NMmex4i+wZfl5JuUw3JScUQ+WWs5h3nyIO4hlIk5UgNzAKfDYVDwr8d/Ff8odLdpk8FeFL5t0Pmau7HaTNucg==",
+  "success": true,
+  "projectFilePath": "D:\\CalculatorWPF\\CalculatorWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

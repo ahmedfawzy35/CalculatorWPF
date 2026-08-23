@@ -1,0 +1,7 @@
+d:\CalculatorWPF\Publish\CalculatorWPF.exe
+d:\CalculatorWPF\Publish\CalculatorWPF.dll
+d:\CalculatorWPF\Publish\CalculatorWPF.deps.json
+d:\CalculatorWPF\Publish\CalculatorWPF.runtimeconfig.json
+d:\CalculatorWPF\Publish\CalculatorWPF.pdb
+d:\CalculatorWPF\Publish\CommunityToolkit.Mvvm.dll
+d:\CalculatorWPF\Publish\System.Runtime.CompilerServices.Unsafe.dll

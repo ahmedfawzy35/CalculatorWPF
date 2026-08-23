@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.exe
+*.dll
+*.log
+Publish/
+*.db
+*.sqlite
+*.zip
+*.7z
