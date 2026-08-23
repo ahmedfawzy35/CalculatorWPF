@@ -6,6 +6,9 @@
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=microsoft)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Ready-success)
+![GitHub stars](https://img.shields.io/github/stars/ahmedfawzy35/CalculatorWPF?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ahmedfawzy35/CalculatorWPF)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 A modern desktop calculator built with WPF and .NET 6 for Windows.
 
@@ -20,9 +23,9 @@ Calculator WPF is a lightweight desktop application for quick arithmetic operati
 - Editable result rows
 - Clean WPF-based desktop UI
 
-## Screenshots
+## Screenshot
 
-![Calculator Interface](repo-banner.png)
+![Calculator Interface](app-screenshot.png)
 
 ## Download
 Get the latest Windows version:
@@ -50,6 +53,14 @@ dotnet build
 - `ViewModels/` for calculator logic
 - `Services/` for app settings and history storage
 - `Themes/` for theme resources
+
+## Changelog
+### v1.0.0
+- Initial desktop calculator release
+- Added calculation history
+- Added theme switching
+- Added editable result rows
+- Added installer and portable package
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
