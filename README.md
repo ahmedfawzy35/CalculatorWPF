@@ -23,9 +23,11 @@ Calculator WPF is a lightweight desktop application for quick arithmetic operati
 - Editable result rows
 - Clean WPF-based desktop UI
 
-## Screenshot
+## Screenshots
 
-![Calculator Interface](app-screenshot.png)
+![Calculator Interface](screenshot1.png)
+![Calculator History View](screenshot2.png)
+![Calculator Result View](screenshot3.png)
 
 ## Download
 Get the latest Windows version:
