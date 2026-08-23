@@ -1,5 +1,7 @@
 # Calculator WPF
 
+![Calculator WPF Banner](repo-banner.png)
+
 A simple desktop calculator built with WPF .NET 6.
 
 ## Features
@@ -13,6 +15,11 @@ A simple desktop calculator built with WPF .NET 6.
 - C#
 - WPF
 - .NET 6
+
+## Download Release
+Download the latest Windows release package here:
+
+- [CalculatorWPF-Release.zip](CalculatorWPF-Release.zip)
 
 ## Run
 ```bash
